@@ -9,3 +9,6 @@
 9	-
 10	carte
 11	.
+
+1	i
+2	unseen

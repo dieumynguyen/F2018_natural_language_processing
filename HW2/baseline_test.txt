@@ -1,0 +1,14 @@
+1	i	PRP
+2	'd	MD
+3	like	VB
+4	zachary	NNP
+5	's	POS
+6	a	DT
+7	-	HYPH
+8	la	FW
+9	-	HYPH
+10	carte	NN
+11	.	.
+
+1	i	PRP
+2	unseen	UNK
