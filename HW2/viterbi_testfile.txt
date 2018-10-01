@@ -1,0 +1,104 @@
+1	i
+2	'd
+3	like
+4	to
+5	go
+6	to
+7	a
+8	fancy
+9	restaurant
+10	.
+
+1	i
+2	'd
+3	like
+4	french
+5	food
+6	.
+
+1	next
+2	thursday
+3	.
+
+1	next
+2	thursday
+3	.
+
+1	dinner
+2	.
+
+1	i
+2	want
+3	to
+4	eat
+5	french
+6	food
+7	.
+
+1	i
+2	want
+3	to
+4	have
+5	dinner
+6	.
+
+1	it
+2	can
+3	be
+4	really
+5	expensive
+6	.
+
+1	as
+2	far
+3	away
+4	as
+5	we
+6	can
+7	get
+8	.
+
+1	as
+2	far
+3	away
+4	as
+5	we
+6	can
+7	get
+8	.
+
+1	as
+2	far
+3	away
+4	as
+5	we
+6	can
+7	get
+8	.
+
+1	i
+2	want
+3	to
+4	be
+5	far
+6	away
+7	from
+8	icsi
+9	.
+
+1	tell
+2	me
+3	about
+4	le
+5	bateau
+6	ivre
+7	.
+
+1	tell
+2	me
+3	about
+4	le
+5	bateau
+6	ivre
+7	.
+
