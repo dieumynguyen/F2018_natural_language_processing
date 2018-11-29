@@ -403,7 +403,7 @@ def main():
 
     # Build word & tag sets
     entire_tags, entire_words, entire_total_word_list = build_words_tags_sets(entire_set, 1, 2)
-    train_tags, train_words, train_total = build_words_tags_sets(train_set, 1, 2)
+    train_tags, train_words, train_total = build_words_tags_sets(train_set, 1, 2)  # changed from train set to entire
     test_tags, test_words, test_total = build_words_tags_sets(test_set, 1, 2)
 
     #### DEAL WITH UNSEEN WORDS IN TRAIN SET
@@ -499,6 +499,6 @@ def main():
     assgn2_original_sentences_flatten = flatten_list(assgn2_original_sentences)
     assgn2_sentences_with_unk_flatten = flatten_list(assgn2_sentences_with_unk)
     assgn2_sentences = create_word_tag_list(assgn2_original_sentences_flatten, assgn2_viterbi_output)
-    write_new_txt(assgn2_sentences, "nguyen-dieumy-assgn2-test-output")
+    write_new_txt(assgn2_sentences, "nguyen-dieumy-assgn2-test-output-REDO")
 
 main()
